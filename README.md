@@ -34,7 +34,6 @@ menjadi string dan dikirim kembali ke klien. Setelah itu, soket klien dan server
 ditutup.
 
 [![LINK PRAKTIKUM]()](https://github.com/Lufasu-Adm/Pemrograman-Jaringan/blob/main/Minggu%202/Client%20%E2%80%93%20Server%20(Single%20Thread)/Praktikum%202/Server)
-##
 
 ## Client
 
@@ -49,13 +48,14 @@ menampilkan balasan tersebut dan menutup koneksi.
 [![LINK PRAKTIKUM]()](https://github.com/Lufasu-Adm/Pemrograman-Jaringan/blob/main/Minggu%202/Client%20%E2%80%93%20Server%20(Single%20Thread)/Praktikum%202/Client)
 
 
+##
+
 
 ## Tugas
 Membuat sebuah program server yang dapat menerima koneksi dari klien 
 menggunakan protokol TCP. Server ini akan menerima pesan dari klien dan 
 mengirimkan pesan balasan berisi jumlah karakter pada pesan tersebut. Gunakan port 
 12345 untuk server. 
-##
 
 ## Server
 Server dibuat dengan menggunakan modul socket di Python. Server ini diatur untuk 
@@ -67,7 +67,6 @@ dikodekan kembali menjadi string dan dikirim kembali ke klien. Setelah itu, soke
 server ditutup
 
 [![LINK Tugas]()](https://github.com/Lufasu-Adm/Pemrograman-Jaringan/blob/main/Minggu%202/Client%20%E2%80%93%20Server%20(Single%20Thread)/Praktikum%202/Tugas/Server)
-##
 
 ## Client
 Klien dibuat dengan menggunakan modul socket di Python. Klien ini diatur untuk terhubung 
