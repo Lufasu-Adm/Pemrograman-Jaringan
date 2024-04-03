@@ -1,4 +1,15 @@
 
+## Dibuat Oleh
+## Nama 
+Jordan Wijayanto
+
+## Nim
+1203220149
+
+
+##
+
+
 ## Client – Server (Single Thread)
 
 TUGAS DAN LATIHAN PRAKTIKUM
