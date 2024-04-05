@@ -149,7 +149,7 @@ Berikut adalah fitur dan cara penggunaan klien
 
 ##
 
-## Kesimpulan
+## Kesimpulan (Tugas 2 - FTP Socket Programming On python)
 Ini adalah implementasi dasar dari sistem komunikasi file antara klien dan server melalui protokol TCP. Pengguna dapat berinteraksi dengan server untuk menjalankan tugas-tugas seperti melihat isi direktori, menghapus konten, serta mengirim dan menerima dokumen. Untuk meningkatkan sistem ini, penambahan proteksi data dan mekanisme error handling yang lebih canggih akan sangat bermanfaat.
   
 
